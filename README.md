@@ -1,6 +1,6 @@
-# Express Boilerplate!
+# Noteful API
 
-This is a boilerplate project used for starting new projects!
+An Express server and Postgres database that can serve the Noteful (client) React application
 
 ## Set up
 
